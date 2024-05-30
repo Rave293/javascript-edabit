@@ -1,0 +1,29 @@
+ALGORITHM three_numbers
+VAR
+    num1, num2, num3 : INTEGER;
+    sum: INTEGER:= 0;
+BEGIN
+ Read(num1)
+ Read(num2)
+ Read(num3)
+ sum:= num1 + num2 + num3
+ Write(sum)
+END
+
+ALGORITHM final-grade
+VAR
+ (pass, fail) mark1, mark2, mark3, mark4 : INTEGER
+BEGIN
+     Read(mark1)
+   Read(mark2)
+   Read(mark3)
+   Read(mark4) 
+   sum: = mark1 + mark2 + mark3 + mark4
+END
+
+ALGORITHM  calculate the area
+VAR
+  length * width : INTEGER
+BEGIN
+ 
+END
